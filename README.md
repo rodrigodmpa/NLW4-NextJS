@@ -1,4 +1,4 @@
-# NLW4-NextJS
+# Move it
 
 Este projeto consiste de uma aplicação para ajudar quem fica muito tempo na sentado no PC.
 
